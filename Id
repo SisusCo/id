@@ -2,7 +2,7 @@ using System;
 using System.Runtime.InteropServices;
 using UnityEngine;
 
-namespace Sisus.Init.Internal
+namespace Sisus
 {
 	/// <summary>
 	/// A persistent and globally unique identifier which can be serialized by Unity.
